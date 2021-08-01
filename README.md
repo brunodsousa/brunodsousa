@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 🤘</h1>
-<h5 align="center">I'm Bruno, a fullstack developer from Brasil.</h5> 
+<h2 align="center">I'm Bruno, a fullstack developer from Brasil.</h2> 
 
-<h6 align="left">💻 🛠 Technologies and Tools</h6>
+<h3 align="left">💻 🛠 Technologies and Tools</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
-<h6 align="left">🙋🏻‍♂️ More about me</h6>
+<h3 align="left">🙋🏻‍♂️ More about me</h3>
 <p align="left">
 I like to... <br />
 📚 read, <br />
@@ -31,13 +31,13 @@ I like to... <br />
 👨🏻 👩🏽 🐶 🐱 🐱 🐱 spend time with my family 🖤. 
 </p>
 
-<h6 align="left">😃 Connect with me</h6>
+<h3 align="left">😃 Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brunodsousa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunodsousa"/></a>
 <a href="mailto:brunodsousa@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="brunodsousa"/></a>
 <a href="https://web.whatsapp.com/send?phone=+5571999378770" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="brunodsousa"/></a>
 </p>
 
-<h6 align="left">⚡ GitHub Stats</h6>
+<h3 align="left">⚡ GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="brunodsousa" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="brunodsousa" /></p>
