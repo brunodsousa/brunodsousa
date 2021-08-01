@@ -28,7 +28,7 @@ I like to... <br />
 🌱 cook vegan food, <br />
 🧠 learn about new things, <br />
 📽 watch documentaries about nutrition and astronomy, <br />
-👨🏻 👩🏽 🐶 🐱 🐱 🐱 spend time with my family 🖤. 
+👨🏻 👩🏽 🐶 🐱 🐱 🐱 spend time with my family 💚. 
 </p>
 
 <h3 align="left">😃 Connect with me</h3>
