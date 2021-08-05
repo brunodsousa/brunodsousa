@@ -39,5 +39,5 @@ I like to... <br />
 </p>
 
 <h3 align="left">⚡ GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=2B2D30" alt="brunodsousa" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=2B2D30" alt="brunodsousa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=313439" alt="brunodsousa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=313439" alt="brunodsousa" /></p>
