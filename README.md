@@ -14,7 +14,10 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=313439" alt="brunodsousa" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=313439" alt="brunodsousa" />
+    
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=52BC4A&text_color=e7e7e7&icon_color=52BC4A&bg_color=313439" alt="brunodsousa" />
 </p>
 
 <p align="center">
