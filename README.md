@@ -1,14 +1,5 @@
 <h1 align="center">Hello World! 🤘</h1>
 
-Full Stack Web Developer trying to improve into Front-End development. <br/>
-Working mainly with Vue.js and Firebase. Experience with Node.js, PostgreSQL, TypeScript, RESTful API development and maintenance.<br/>
-Passionate about learning new things, I am currently studying more about Web Accessibility and UX/UI Design. 🙂
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="brunodsousa"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="brunodsousa" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brunodsousa/" alt="LinkedIn" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,3 +11,14 @@ Passionate about learning new things, I am currently studying more about Web Acc
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+Full Stack Web Developer trying to improve into Front-End development. <br/>
+Working mainly with Vue.js and Firebase. Experience with Node.js, PostgreSQL, TypeScript, RESTful API development and maintenance.<br/>
+Passionate about learning new things, I am currently studying more about Web Accessibility and UX/UI Design. 🙂
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="brunodsousa" width="350" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="brunodsousa" width="350" />
+</p>
+
+
