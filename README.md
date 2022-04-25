@@ -7,6 +7,7 @@
   <a href="mailto:brunodsousa@outlook.com" alt="Outlook" target="blank" >
     <img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/Bruno Sousa#8200" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a>
   <a href="https://web.whatsapp.com/send?phone=+5571999378770" alt="WhatsApp" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
