@@ -1,8 +1,8 @@
 <h1>Hello World! 🤘</h1>
 
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="brunodsousa" width="420" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="brunodsousa" width="350" />
+   <img src="https://github-readme-stats.vercel.app/api?username=brunodsousa&count_private=true&include_all_commits=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true" alt="brunodsousa" width="420" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodsousa&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true" alt="brunodsousa" width="350" />
 </p>
 
 <p align="left">
